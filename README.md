@@ -1,24 +1,21 @@
-# Java4Shell Lab — CVE-2026-114938
+<pre>
+      _                  _  _   _____ _          _ _ 
+     | |                | || | / ____| |        | | |
+     | | __ ___   ____ _| || || (___ | |__   ___| | |
+ _   | |/ _` \ \ / / _` |__   _\___ \| &#x27;_ \ / _ \ | |
+| |__| | (_| |\ V / (_| |  | | ____) | | | |  __/ | |
+ \____/ \__,_| \_/ \__,_|  |_||_____/|_| |_|\___|_|_|
+                                                     
+                                                     
+</pre>
+
+<p align="center">pre-auth RCE · AVX-512 VBMI · JavaBleed</p>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Java4Shell banner" style="width:100%;max-height:240px;object-fit:cover"/>
+  <img src="https://img.shields.io/badge/CVE-2026--114938-critical-f85149" alt=""/>
+  <img src="https://img.shields.io/badge/CVSS-9.2-critical-f85149" alt=""/>
+  <img src="https://img.shields.io/badge/MIT-2ea043" alt=""/>
 </p>
-
-<p align="center">
-  <img src="assets/logo.png" alt="Java4Shell logo" width="120"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CVE-2026--114938-critical-f85149" alt="CVE"/>
-  <img src="https://img.shields.io/badge/CVSS_4.0-9.2-critical-f85149" alt="CVSS"/>
-  <img src="https://img.shields.io/badge/OpenJDK-17.0.6--17.0.21-orange" alt="OpenJDK"/>
-  <img src="https://img.shields.io/badge/AVX--512-VBMI-blue" alt="AVX512"/>
-  <img src="https://img.shields.io/badge/license-MIT-2ea043" alt="MIT"/>
-</p>
-
-> **Lab edukasi untuk penelitian keamanan yang sah.** Target web rentan + detektor +
-> exploit PoC untuk mempelajari **Java4Shell** (kerusakan heap pada decoder Base64
-> OpenJDK). **Bukan senjata.** Tidak ada exploit RCE publik untuk CVE ini.
 
 ---
 
