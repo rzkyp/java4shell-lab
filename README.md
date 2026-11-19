@@ -1,7 +1,7 @@
 # Java4Shell Lab — CVE-2026-114938
 
 <p align="center">
-  <img src="assets/banner.png" alt="Java4Shell banner" width="100%"/>
+  <img src="assets/banner.png" alt="Java4Shell banner" style="width:100%;max-height:240px;object-fit:cover"/>
 </p>
 
 <p align="center">
@@ -158,9 +158,8 @@ java4shell-lab/
 ├── menu.py               # menu CLI interaktif
 ├── Dockerfile            # image lab (host AVX-512 VBMI)
 ├── assets/
-│   ├── banner.png        # banner repo
-│   ├── logo.png          # logo
-│   └── make_banner.py    # generator banner/logo
+│   ├── banner.png        # banner repo (logo ZEXO · ZeroDev)
+│   └── logo.png          # logo ZEXO · ZeroDev
 ├── README.md
 ├── SECURITY.md
 └── LICENSE
@@ -412,4 +411,5 @@ J: Cek versi JDK (affected range) + CPU AVX-512 VBMI. Kombinasi keduanya = HIGH.
 MIT — lihat [LICENSE](LICENSE). Gambar dan nama "Java4Shell" digunakan untuk
 keperluan edukasi/keamanan; merek "Java" milik Oracle.
 
-<p align="center"><i>Built for authorized security research · nya~</i></p>
+<p align="center"><i>Built for authorized security research · dev colab with hermes</i></p>
+<p align="center"><sub>Logo: ZEXO · ZeroDev</sub></p>
