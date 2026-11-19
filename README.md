@@ -155,7 +155,6 @@ java4shell-lab/
 ├── menu.py               # menu CLI interaktif
 ├── Dockerfile            # image lab (host AVX-512 VBMI)
 ├── assets/
-│   ├── banner.png        # banner repo (logo ZEXO · ZeroDev)
 │   └── logo.png          # logo ZEXO · ZeroDev
 ├── README.md
 ├── SECURITY.md
