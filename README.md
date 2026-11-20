@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="docs/banner.png" alt="Java4Shell Lab — CVE-2026-114938" width="100%">
+</p><p align="center">
+  <img src="docs/logo.png" alt="ZEXO — ZeroDev" width="110">
+</p>
+
 <pre>
       _                  _  _   _____ _          _ _ 
      | |                | || | / ____| |        | | |
